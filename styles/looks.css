@@ -1,0 +1,18 @@
+body {
+  background: #4E8975;
+  color: #fff;
+  font-family:  Calibri, Helvetica, sans-serif; /*   add fonts   */
+ margin-bottom: : 30px;
+}
+
+h1, h2, p {
+  margin: 20px;
+}
+
+#carouselExampleControls {
+  margin: : 30px;
+}
+
+#wrapper {
+  max-width: 800px;
+}
